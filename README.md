@@ -1,5 +1,13 @@
 # Moscow Street Parkings Visualization 
 
+- [About](#about)
+- [Visualization](#visualization)
+    - [matplotlib.pyplot](#matplotlibpyplot)
+    - [plotly](#plotly)
+- [Data](#data)
+- [Usage](#usage)
+- [Repository structure](#repository-structure)
+
 ## About
 The project was made in personal purposes to check visualization powers of matplotlib.pyplot and plotly. 
 
