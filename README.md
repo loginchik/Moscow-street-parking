@@ -15,10 +15,7 @@ The project contains two visualizations of the same data.
 For the process of creation see [the code](pyplot_visualization/static.py). 
 
 ### plotly 
-
-<iframe src="results/interactive_graph.html"></iframe>
-
-See the [file](results/interactive_graph.html), you can also see the [code](plotly_visualization/interactive.py).
+See the [file](results/interactive_graph.html) (unfirtunately, it is currently too big to be displayed on the github), you can also see the [code](plotly_visualization/interactive.py).
 
 ## Data 
 
